@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
+const port = process.env.PORT || 8080;
+
 app.use('/static', express.static(path.join(__dirname, 'static')));
 app.use('/static', express.static(path.join(__dirname, 'stubs')));
 
@@ -65,5 +67,5 @@ app.post('/api/pay_order', (req, res) => { console.log(req.body); return res.sen
 app.post('/api/cancel_order/*', (req, res) => { console.log(req.body); return res.sendStatus(200) });
 app.post('/api/repeat_order/*', (req, res) => { console.log(req.body); return res.sendStatus(200) });
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'))
+app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
