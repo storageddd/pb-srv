@@ -1,0 +1,31 @@
+{
+  "date": "Сегодня, 12:30",
+  "status": 0,
+  "isCardPay": true,
+  "deliveryType": 0,
+  "deliveryPoint": 1,
+  "items": [
+    {
+      "category": "Мороженное",
+      "count": 1000,
+      "id": 1,
+      "name": "Манго-гуава",
+      "pic": ["assets/img/mocks/products/preview/item-1.png", "assets/img/mocks/products/preview/item-1@2x.png"],
+      "price": 150,
+      "totalCount": 4000,
+      "totalPrice": 600,
+      "units": "г"
+    },
+    {
+      "category": "Мороженное",
+      "count": 1000,
+      "id": 2,
+      "name": "Манго-апельсин",
+      "pic": ["assets/img/mocks/products/preview/item-2.png", "assets/img/mocks/products/preview/item-2@2x.png"],
+      "price": 150,
+      "totalCount": 4000,
+      "totalPrice": 600,
+      "units": "г"
+    }
+  ]
+}

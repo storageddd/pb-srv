@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "Манго-гуава",
+  "category": {
+    "id": 1,
+    "name": "Мороженное"
+  },
+  "price": "150",
+  "count": "1000",
+  "units": "г",
+  "pic": ["assets/img/mocks/products/big/item-big.png", "assets/img/mocks/products/big/item-big@2x.png"],
+  "preview": ["assets/img/mocks/products/preview/item-1.png", "assets/img/mocks/products/preview/item-1@2x.png"],
+  "desc": [
+    "Легкое мороженое из пюре манго и гуавы с банановым джемом",
+    "Традиционные виды мороженого приготавливаются на основе молочных смесей с определёнными соотношениями молочных белка и жиров и/или на основе соков, фруктов и ягод. Они имеют сладкий вкус, обусловленный использованием сахара."
+  ]
+}

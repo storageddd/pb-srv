@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Манго-гуава",
+    "price": "150",
+    "count": "1000",
+    "units": "г",
+    "pic": ["assets/img/mocks/products/preview/item-1.png", "assets/img/mocks/products/preview/item-1@2x.png"]
+  },
+  {
+    "id": 2,
+    "name": "Малина-Чиа Вкусное",
+    "price": "99",
+    "count": "500",
+    "units": "г",
+    "pic": ["assets/img/mocks/products/preview/item-2.png", "assets/img/mocks/products/preview/item-2@2x.png"]
+  },
+  {
+    "id": 3,
+    "name": "Клубничка-Земляничка",
+    "price": "100",
+    "count": "1",
+    "units": "шт",
+    "pic": ["assets/img/mocks/products/preview/item-3.png", "assets/img/mocks/products/preview/item-3@2x.png"]
+  },
+  {
+    "id": 4,
+    "name": "Лакомка",
+    "price": "1000",
+    "count": "3000",
+    "units": "кг",
+    "pic": ["assets/img/mocks/products/preview/item-1.png", "assets/img/mocks/products/preview/item-1@2x.png"]
+  },
+  {
+    "id": 5,
+    "name": "Малина-Чиа",
+    "price": "150",
+    "count": "1000",
+    "units": "г",
+    "pic": ["assets/img/mocks/products/preview/item-2.png", "assets/img/mocks/products/preview/item-2@2x.png"]
+  }
+]

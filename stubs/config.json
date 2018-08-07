@@ -1,0 +1,85 @@
+{
+  "shop": {
+    "id": 1,
+    "name": "33 пингвина",
+    "type": "кафе-мороженное",
+    "banner": ["assets/img/mocks/shops/shop-1.png", "assets/img/mocks/shops/shop-1@2x.png"],
+    "phone": "+1234567890",
+    "categories": [
+      {
+        "id": 1,
+        "name": "Мороженное"
+      },
+      {
+        "id": 2,
+        "name": "Десерты"
+      },
+      {
+        "id": 3,
+        "name": "Сувениры"
+      },
+      {
+        "id": 4,
+        "name": "Детские наборы"
+      },
+      {
+        "id": 5,
+        "name": "Напитки"
+      }
+    ],
+    "deliveryPoints": [
+      {
+        "value": 1,
+        "text": "Москва, ул. Свердлова, д. 27"
+      },
+      {
+        "value": 2,
+        "text": "Москва, ул. Маячкова, д. 4"
+      },
+      {
+        "value": 3,
+        "text": "Москва, ул. Минусинская, д. 100"
+      }
+    ],
+    "surrender": [5000, 2000, 1000]
+  },
+  "user": {
+    "orders": {
+      "confirmed": 5,
+      "unconfirmed": 3
+    },
+    "cashback": 10,
+    "delivery": [
+      {
+        "id": 0,
+        "city": "Москва",
+        "street": "Академика Королева",
+        "house": "15",
+        "flat": "2",
+        "entrance": "2",
+        "floor": "3",
+        "code": "155",
+        "name": "",
+        "comment": ""
+      },
+      {
+        "id": 1,
+        "city": "Москва",
+        "street": "Новый арбат",
+        "house": "123",
+        "flat": "2",
+        "entrance": "2",
+        "floor": "",
+        "code": "2195",
+        "name": "",
+        "comment": ""
+      }
+    ],
+    "card": {
+      "number": "2342 3423 4234 2342",
+      "name": "Dmitry Novikov",
+      "date": "05/23",
+      "code": "753"
+    }
+  }
+}
