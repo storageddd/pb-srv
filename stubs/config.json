@@ -4,6 +4,7 @@
     "name": "33 пингвина",
     "type": "кафе-мороженное",
     "banner": ["assets/img/mocks/shops/shop-1.png", "assets/img/mocks/shops/shop-1@2x.png"],
+    "logo": ["assets/img/mocks/shops/logo.png", "assets/img/mocks/shops/logo@2x.png"],
     "phone": "+1234567890",
     "categories": [
       {
